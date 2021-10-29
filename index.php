@@ -62,3 +62,10 @@
    <p>©Copyright 2050 by nobody. All rights reversed.</p>
   </body>
 </html>
+
+<?php
+
+$area = (200*546)/2;
+print "El are del triangulo es $area <br>"
+
+?>
